@@ -15,11 +15,4 @@
     <link rel="shortcut icon" href="assets/images/favicon.png" type="image/x-icon">
     <link rel="stylesheet" href="assets/css/modern.css">
     <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;600&display=swap" rel="stylesheet">
-</head>
-<body>
-<?php
-session_start();
-if (!isset($_SESSION['status']) || $_SESSION['status'] != 'login') {
-    header('location:./login.php');
-    exit;
-}
+</head> 

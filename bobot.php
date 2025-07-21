@@ -57,7 +57,7 @@ require "include/conn.php";
     <th>Simbol</th>
     <th>Kriteria</th>
     <th>Bobot</th>
-    <th colspan="2">Atribut</th>
+    <th colspan="1">Atribut</th>
     <th>Aksi</th>
   </tr>
   <?php
