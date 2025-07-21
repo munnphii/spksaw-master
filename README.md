@@ -46,7 +46,7 @@ Metode Simple Additive Weighting (SAW) sering juga dikenal istilah metode penjum
 #### 1. **Clone/Download Repository**
 
 ```bash
-git clone https://github.com/munnphi/Sistem-Pendukung-Keputusan-Seleksi-Calon-Atlet-Berbakat-Terbaik-Menggunakan-Metode-SAW.git
+git clone https://github.com/munnphii/spksaw-master
 cd Sistem-Pendukung-Keputusan-Seleksi-Calon-Atlet-Berbakat-Terbaik-Menggunakan-Metode-SAW
 ```
 
